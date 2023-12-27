@@ -76,6 +76,7 @@ trade.*?accepted.*?with.*?for
 (?i)giving \d{2}% of what you show
 (?i)giving away .*? pm me
 (?i)free membership
+(?i)rsg00ds/fastgp/
 (?i)quitting .*?giving \d+ percent.*? show
 (?i)quitting.*?shows? me \d+\s?[gkm].*?free \d+\s?[gkm]
 (?i)the first.*?won'?t regret it
